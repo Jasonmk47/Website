@@ -16,6 +16,21 @@ body {
 	flex: 1;
 }
 
+.jumbotron{
+    
+}
+
+#summary{
+
+
+}
+
+.portrait{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 footer {
 	padding-right: 15px;
     padding-left: 15px;
